@@ -1,0 +1,19 @@
+# VSCode
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Banco local
+*.db
+
+# Backup SQL temporário
+*.backup
+*.bak
+
+# Arquivos temporários
+*.tmp
