@@ -78,3 +78,13 @@ As imagens abaixo, contidas no diretório `screenshots/`, exemplificam a criaç�
 2. Execute o arquivo de definição de tabelas localizado em [create_tables.sql](file:///c:/Users/sabon/Desktop/postgresql-triggers-exercises/schema/create_tables.sql).
 3. Execute o script contido na pasta `exercises/` correspondente à trigger que deseja carregar.
 4. Realize operações de `INSERT`, `UPDATE` ou `DELETE` nas tabelas principais para verificar a execução automática dos gatilhos e o preenchimento das tabelas de auditoria e logs.
+
+---
+
+##  Autor
+**Matheus Pereira** <br> 
+- Estudante de Engenharia de Software Faculdade de Nova Serrana <br>
+- Apaixonado por desenvolvimento desktop <br>
+- GitHub: https://github.com/MatheusPereiira
+
+---
